@@ -23,6 +23,7 @@ Hello my name is ucil
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ucilmenangis) 
 
+Note: Im not currently active on coding or something else, so dont expect to me
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
