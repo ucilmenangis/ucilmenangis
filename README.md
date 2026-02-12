@@ -1,6 +1,12 @@
 # Hi, I'm Ucil Menangis 👋
 
-### Laravel Developer | Student at POLIJE Jember
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=false&vCenter=false&width=435&lines=Laravel+Developer;Student+at+POLIJE+Jember;Building+Web+Applications;Always+Learning)](https://git.io/typing-svg)
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ucilmenangis&theme=gitdimmed&column=7" alt="ucilmenangis" />
+  </a>
+</p>
 
 Building web applications and learning something new every day.
 
@@ -9,6 +15,14 @@ Building web applications and learning something new every day.
 ## 👋 About Me
 
 I'm a student at **Politeknik Negeri Jember (POLIJE)** passionate about web development. Currently focused on Laravel and building real-world applications. I believe in learning by doing and continuously improving my craft.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ucilmenangis&show_icons=true&theme=dark" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ucilmenangis&layout=compact&theme=dark" height="180" alt="languages graph" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ucilmenangis&theme=dark" alt="streak graph" />
+</div>
 
 ---
 
@@ -63,5 +77,11 @@ Feel free to reach out!
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ucilmenangis@gmail.com)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ucilmenangis/ucilmenangis/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ucilmenangis/ucilmenangis/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ucilmenangis/ucilmenangis/output/github-contribution-grid-snake.svg">
+</picture>
 
 *Every expert was once a beginner. Keep learning, keep building!*
