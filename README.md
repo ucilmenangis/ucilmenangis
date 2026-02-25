@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ucil%20Menangis&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" />
+### Ucil Menangis
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Laravel+Developer;Android+%26+Web+Enthusiast;Student+at+POLIJE+Jember;Always+Learning+Something+New+🚀)](https://git.io/typing-svg)
@@ -14,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <!-- Languages -->
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -51,7 +50,7 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-555555?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ucilmenangis)
