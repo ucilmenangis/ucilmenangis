@@ -27,7 +27,7 @@ ucilmenangis@github:~$ cat ./about.json
 
 ucilmenangis@github:~$ neofetch
 ```
-```
+
 </td>
 <td valign="top" width="40%">
 
