@@ -6,10 +6,6 @@
 
 *just a random person who loves doing projects and building things that work ✨*
 
-</div>
-
----
-
 <table width="100%">
 <tr>
 <td valign="top" width="60%">
@@ -28,9 +24,6 @@ ucilmenangis@github:~$ cat ./about.json
 ucilmenangis@github:~$ neofetch
 ```
 
-</td>
-<td valign="top" width="40%">
-
 ### 📫 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-555555?style=for-the-badge&logo=googlechrome&logoColor=white)](#)
@@ -38,10 +31,6 @@ ucilmenangis@github:~$ neofetch
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Irfanrafi__)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-arrafi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ucilmenangis@gmail.com)
-
-</td>
-</tr>
-</table>
 
 ---
 
